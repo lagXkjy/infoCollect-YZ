@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/transition/transition",
+    "pages/login/login",
+    "pages/bind/bind",
+    "pages/clause/clause"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTitleText": "一朝数据采集",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json"
+}
